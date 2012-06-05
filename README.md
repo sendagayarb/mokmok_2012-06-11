@@ -24,5 +24,9 @@ mokmok_2012-06-11
 * fukajun[すたっふぅー]
   * ポジションペーパー:http://kitbc.s41.xrea.com/main/
 
+# 質問したいこと
+- 例）こういうのどういうふうに実装すればいいの？
+
+
 # KPT
 * http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
