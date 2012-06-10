@@ -23,6 +23,8 @@ mokmok_2012-06-11
   * ポジションペーパー:http://ppworks.info
 * fukajun[すたっふぅー]
   * ポジションペーパー:http://kitbc.s41.xrea.com/main/
+* iwhurtafly
+  * ポジションペーパー:http://respira.heroku.com/home
 
 # 質問したいこと
 - 例）こういうのどういうふうに実装すればいいの？
