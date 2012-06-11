@@ -17,13 +17,19 @@ has_paper_trail
 ```
 
 * オブジェクトのバージョン全部取ってくる
-    .versions
+```
+.versions
+```
 
 * 次のバージョン
+```
     .next_version
+```
 
 * 前のバージョン
+```
     .previous_version
+```
 
 ## 今日ハマったこと
 * rspecを動かすための環境づくり
