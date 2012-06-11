@@ -3,10 +3,13 @@
 
 # もくもくの記録
 ## 今日できたこと
-* コレやります。
+* tutorial の Rendering the first page まで
+* http://www.playframework.org/documentation/2.0.1/ScalaTodoList
+* http://sharp-meadow-2084.herokuapp.com/tasks
 
 ## 今日学んだこと
-* コレ学びました
+* TODO 便利！
 
 ## 今日ハマったこと
-* コレはまりました。
+* taskForm の定義位置がわかりにくかった
+* Emacs に Scala mode 入れたい(補完も働いていないのでその辺も整備したい)
