@@ -40,3 +40,6 @@ mokmok_2012-06-11
 
 # KPT
 * http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
+
+# togetter
+* http://togetter.com/li/319289
