@@ -12,7 +12,9 @@ paper trailで使えるようになるメソッド
 https://github.com/airblade/paper_trail
 
 * バージョン管理をするモデルに定義
-    has_paper_trail
+'''
+has_paper_trail
+'''
 
 * オブジェクトのバージョン全部取ってくる
     .versions
