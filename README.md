@@ -27,6 +27,10 @@ mokmok_2012-06-11
   * ポジションペーパー:http://respira.heroku.com/home
 * iR3
   * ポジションペーパー(かなり昔の):http://goo.gl/qS13y
+* kei_q
+  * ポジションペーパー:https://gist.github.com/3fea8dcb2689dcd1ba98
+* kysnm(リモート参戦)
+  * ポジションペーパー:https://gist.github.com/89d3b39e7894c8ca16e7
 
 # 質問したいこと
 - 例）こういうのどういうふうに実装すればいいの？
