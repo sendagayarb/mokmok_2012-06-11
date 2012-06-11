@@ -25,6 +25,8 @@ mokmok_2012-06-11
   * ポジションペーパー:http://kitbc.s41.xrea.com/main/
 * iwhurtafly
   * ポジションペーパー:http://respira.heroku.com/home
+* iR3
+  * ポジションペーパー(かなり昔の):http://goo.gl/qS13y
 
 # 質問したいこと
 - 例）こういうのどういうふうに実装すればいいの？
